@@ -18,7 +18,7 @@ found in any way useful for my current studies.
 )
   - [BART by Andrew Parnell](https://github.com/andrewcparnell/intro_to_bart)
   - [Doing Bayesian Data Analysis](doingbayesiandataanalysis.blogspot.com)
-  - Survival Analysis in Stan](http://www.hammerlab.org/2017/06/26/introducing-survivalstan/)
+  - [Survival Analysis in Stan](http://www.hammerlab.org/2017/06/26/introducing-survivalstan/)
   - [MCMC tutorials](http://vcla.stat.ucla.edu/old/MCMC/MCMC_tutorial.htm)
   - [Bayesian Neural Networks](http://edwardlib.org/tutorials/bayesian-neural-network)
   - [Laplaces Demon Archive](https://web.archive.org/web/20150304181115/http://www.bayesian-inference.com:80/mcmc)
@@ -60,7 +60,7 @@ found in any way useful for my current studies.
   - [Practical Reinforcement Learning](https://www.coursera.org/learn/practical-rl)
   - [Probabilistic Graphical Models](https://www.coursera.org/learn/probabilistic-graphical-models)
   
-# Anything elese
+# Anything else
   - [Screen to gif](https://www.screentogif.com/)
   - [Paper writing](https://academic.oup.com/intqhc/article/16/3/191/1814554)
 
