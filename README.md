@@ -3,7 +3,7 @@
 I'm currently pursuing my PhD in Statistics at the 
 [Hamilton Institute](https://www.maynoothuniversity.ie/hamilton), in
 Maynooth, Ireland, and the focus of my research is Bayesian Machine 
-Learning. This repository contains a wide diversity of links that I 
+Learning. This repository contains a wide diversity of links that I've 
 found in any way useful for my current studies. 
 
 # Bayesian stuff
