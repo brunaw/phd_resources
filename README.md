@@ -34,6 +34,8 @@ found in any way useful for my current studies.
   - [Feature Engineering](http://www.feat.engineering/intro-intro.html)
   - [Chris Albon's notes](https://chrisalbon.com/)
   - [Visualisation references](https://www.visualcinnamon.com/)
+  - [Probabilistic modelling examples](https://github.com/wiseodd/probabilistic-models)
+  - [MCMC examples](https://github.com/wiseodd/MCMC)
 
 
 
