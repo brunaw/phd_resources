@@ -22,6 +22,9 @@ found in any way useful for my current studies.
   - [MCMC tutorials](http://vcla.stat.ucla.edu/old/MCMC/MCMC_tutorial.htm)
   - [Bayesian Neural Networks](http://edwardlib.org/tutorials/bayesian-neural-network)
   - [Laplaces Demon Archive](https://web.archive.org/web/20150304181115/http://www.bayesian-inference.com:80/mcmc)
+  - [PGMs](https://inst.eecs.berkeley.edu/~cs188/fa18/assets/slides/lec13/FA18_cs188_lecture13_bayes_nets_4pp.pdf)
+  - [PGMs 2](http://www.bnlearn.com/about/teaching/slides-bnshort.pdf)
+  - [PGMs 3](https://arxiv.org/pdf/1409.4928.pdf)
 
 
 
@@ -54,6 +57,7 @@ found in any way useful for my current studies.
   - [Visualisation](https://blog.modeanalytics.com/python-data-visualization-libraries/)
   - [Python for statisticians](http://pytutorial.marcoinacio.com/)
   - [Method Chaining](https://tomaugspurger.github.io/method-chaining)
+  - [Bayes py](http://bayespy.org/examples/examples.html)
   
 # Coursera
   - [Bayesian Methods for Machine Learning](https://www.coursera.org/learn/bayesian-methods-in-machine-learning/home/welcome)
