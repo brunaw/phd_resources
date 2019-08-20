@@ -39,8 +39,13 @@ found in any way useful for my current studies.
   - [Visualisation references](https://www.visualcinnamon.com/)
   - [Probabilistic modelling examples](https://github.com/wiseodd/probabilistic-models)
   - [MCMC examples](https://github.com/wiseodd/MCMC)
-
-
+  - [ML by Larry Wasserman](http://www.stat.cmu.edu/~larry/=sml/)
+  - [Prob & Stats by Larry Wasserman](http://www.stat.cmu.edu/~larry/=stat700/)
+  - [Fast AI](https://course.fast.ai/)
+  - [tidymodels](https://rviews.rstudio.com/2019/06/19/a-gentle-intro-to-tidymodels/)
+  - [MLSS 2019 London - Full Videos](https://search.videoken.com/?orgId=198#)
+  - [Isak's summary - MLSS 2019](https://isakfalk.com/posts/mlss-2019/) 
+  
 
 # `R`
 
