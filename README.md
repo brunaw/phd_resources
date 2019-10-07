@@ -45,6 +45,7 @@ found in any way useful for my current studies.
   - [tidymodels](https://rviews.rstudio.com/2019/06/19/a-gentle-intro-to-tidymodels/)
   - [MLSS 2019 London - Full Videos](https://search.videoken.com/?orgId=198#)
   - [Isak's summary - MLSS 2019](https://isakfalk.com/posts/mlss-2019/) 
+  - [Prob & Stats Cookbook](http://pages.cs.wisc.edu/~tdw/files/cookbook-en.pdf)
   
 
 # `R`
@@ -56,6 +57,10 @@ found in any way useful for my current studies.
   - [Data Visualisation (Fronkonstin)](https://fronkonstin.com/)
   
 
+# `Julia`
+  - [Julia Scientific Programming - Course](https://www.coursera.org/learn/julia-programming)
+  - [Tutorials](https://github.com/JuliaComputing/JuliaBoxTutorials)
+  
 # `python`
 
   - [Fluent python]( https://github.com/fluentpython)
