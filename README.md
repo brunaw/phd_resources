@@ -81,3 +81,35 @@ found in any way useful for my current studies.
   - [Paper writing](https://academic.oup.com/intqhc/article/16/3/191/1814554)
 
 
+# Conferences & Summer Schools (happen yearly)  
+
+## Programming 
+  - [rstudio::conf]
+  - [UseR!](https://www.r-project.org/conferences/)
+  - [pycon Ireland](https://python.ie/)
+  - [JuliaCon](https://juliacon.org/2020/)
+  - [StanCon](https://mc-stan.org/events/stancon2019Cambridge/)
+
+## Stats & ML
+
+- [21 ML Conferences](https://blog.bizzabo.com/machine-learning-events)
+- [Global Woman in Data Science Conference](https://www.widsconference.org/) 
+- [Stats Conferences Calenda](https://www.imstat.org/meetings-calendar/)
+- [Machine Learning Summer School](http://mlss.cc/)
+- [APTS](https://warwick.ac.uk/fac/sci/statistics/apts/) 
+- [Deep Learning Summer School](https://deepbayes.ru/)
+- [Gaussian Processes Summer School](http://gpss.cc/)
+- [Summer Schools List](https://github.com/sshkhr/awesome-mlss)
+
+
+## Diversity Scholarships
+  - Why do they exist?
+    - To increase diversity & inclusion in the tech environment
+  - What does it include, generally?
+    - It can be either partial or full scholarships, including registration, accomodation, food and travel costs. It all depends on each conference/summer school rules. 
+  - What to write in the application?
+    - Your profile (where are you from, gender, what do you do now and plans to do later)
+    - What is your current study/employment situation, emphasizing on how much going to the conference would be benefitial for it 
+    - Explain your budget limitations clearly (e.g. PhD students have almost no money for conferences/programming resources)
+    - Explain how do you plan to "give" back what will be learned in the conference/summer school (e.g. share content on GitHub, apply it in your thesis or specific project) 
+    
