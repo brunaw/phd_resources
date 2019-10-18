@@ -84,7 +84,7 @@ found in any way useful for my current studies.
 # Conferences & Summer Schools (happen yearly)  
 
 ## Programming 
-  - [rstudio::conf]
+  - [rstudio::conf](https://blog.rstudio.com/2019/07/15/rstudio-conf-2020/)
   - [UseR!](https://www.r-project.org/conferences/)
   - [pycon Ireland](https://python.ie/)
   - [JuliaCon](https://juliacon.org/2020/)
