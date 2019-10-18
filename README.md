@@ -93,7 +93,7 @@ found in any way useful for my current studies.
 ## Stats & ML
 
 - [21 ML Conferences](https://blog.bizzabo.com/machine-learning-events)
-- [Global Woman in Data Science Conference](https://www.widsconference.org/) 
+- [Global Women in Data Science Conferences](https://www.widsconference.org/) 
 - [Stats Conferences Calendar](https://www.imstat.org/meetings-calendar/)
 - [Machine Learning Summer School](http://mlss.cc/)
 - [APTS](https://warwick.ac.uk/fac/sci/statistics/apts/) 
