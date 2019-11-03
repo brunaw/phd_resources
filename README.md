@@ -6,6 +6,7 @@ Maynooth, Ireland, and the focus of my research is Bayesian Machine
 Learning. This repository contains a wide diversity of links that I've 
 found in any way useful for my current studies. 
 
+
 # Bayesian stuff
 
 
@@ -25,6 +26,7 @@ found in any way useful for my current studies.
   - [PGMs](https://inst.eecs.berkeley.edu/~cs188/fa18/assets/slides/lec13/FA18_cs188_lecture13_bayes_nets_4pp.pdf)
   - [PGMs 2](http://www.bnlearn.com/about/teaching/slides-bnshort.pdf)
   - [PGMs 3](https://arxiv.org/pdf/1409.4928.pdf)
+  - [David Blei's page](http://www.cs.columbia.edu/~blei/courses.html)
 
 
 
@@ -79,6 +81,7 @@ found in any way useful for my current studies.
 # Anything else
   - [Screen to gif](https://www.screentogif.com/)
   - [Paper writing](https://academic.oup.com/intqhc/article/16/3/191/1814554)
+  - [Columbia's CS Ph.D. support page](http://www.cs.columbia.edu/education/phd/)
 
 
 # Conferences & Summer Schools (happen yearly)  
