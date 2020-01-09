@@ -82,6 +82,7 @@ found in any way useful for my current studies.
   - [Screen to gif](https://www.screentogif.com/)
   - [Paper writing](https://academic.oup.com/intqhc/article/16/3/191/1814554)
   - [Columbia's CS Ph.D. support page](http://www.cs.columbia.edu/education/phd/)
+  - [Presentation preparation](http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
 
 
 # Conferences & Summer Schools (happen yearly)  
