@@ -29,7 +29,6 @@ found in any way useful for my current studies.
   - [David Blei's page](http://www.cs.columbia.edu/~blei/courses.html)
 
 
-
 # Miscellaneous Machine Learning
 
   - [NN from scratch](https://www.tychobra.com/posts/2018_10_09_nn_from_scratch/)
@@ -39,16 +38,22 @@ found in any way useful for my current studies.
   - [Feature Engineering](http://www.feat.engineering/intro-intro.html)
   - [Chris Albon's notes](https://chrisalbon.com/)
   - [Visualisation references](https://www.visualcinnamon.com/)
-  - [Probabilistic modelling examples](https://github.com/wiseodd/probabilistic-models)
   - [MCMC examples](https://github.com/wiseodd/MCMC)
   - [ML by Larry Wasserman](http://www.stat.cmu.edu/~larry/=sml/)
-  - [Prob & Stats by Larry Wasserman](http://www.stat.cmu.edu/~larry/=stat700/)
   - [Fast AI](https://course.fast.ai/)
   - [tidymodels](https://rviews.rstudio.com/2019/06/19/a-gentle-intro-to-tidymodels/)
   - [MLSS 2019 London - Full Videos](https://search.videoken.com/?orgId=198#)
   - [Isak's summary - MLSS 2019](https://isakfalk.com/posts/mlss-2019/) 
-  - [Prob & Stats Cookbook](http://pages.cs.wisc.edu/~tdw/files/cookbook-en.pdf)
+  - [Variational Inference](https://arxiv.org/pdf/1601.00670.pdf)
   
+ 
+ # Probability and Statistics
+  - [Prob & Stats Cookbook](http://pages.cs.wisc.edu/~tdw/files/cookbook-en.pdf)
+  - [Prob & Stats by Larry Wasserman](http://www.stat.cmu.edu/~larry/=stat700/)
+  - [Probabilistic modelling examples](https://github.com/wiseodd/probabilistic-models)
+  - [Measure Theory](https://www.countbayesie.com/blog/2015/8/17/a-very-brief-and-non-mathematical-introduction-to-measure-theory-for-probability)
+  - [Measure Theory notes](https://www.math.ucdavis.edu/~hunter/measure_theory/measure_notes.pdf)
+  - [Measure Theory playlist](https://www.youtube.com/watch?v=TxBLRz-gNq4&list=PL17567A1A3F5DB5E4)
 
 # `R`
 
@@ -70,6 +75,12 @@ found in any way useful for my current studies.
   - [Python for statisticians](http://pytutorial.marcoinacio.com/)
   - [Method Chaining](https://tomaugspurger.github.io/method-chaining)
   - [Bayes py](http://bayespy.org/examples/examples.html)
+  - [Python for DS & AI](https://www.coursera.org/learn/python-for-applied-data-science-ai )
+  
+# `c++`
+  - [CS Fundamental courses](https://www.coursera.org/specializations/cs-fundamentals)
+  - [Lecturer's github](https://github.com/wadefagen)
+  - [Introduction à la programmation orientée objet (en C++)](https://www.coursera.org/learn/programmation-orientee-objet-cpp?courseSlug=programmation-orientee-objet-cpp&showOnboardingModal=check)
   
 # Coursera
   - [Bayesian Methods for Machine Learning](https://www.coursera.org/learn/bayesian-methods-in-machine-learning/home/welcome)
@@ -77,6 +88,7 @@ found in any way useful for my current studies.
   - [NLP](https://www.coursera.org/learn/language-processing)
   - [Practical Reinforcement Learning](https://www.coursera.org/learn/practical-rl)
   - [Probabilistic Graphical Models](https://www.coursera.org/learn/probabilistic-graphical-models)
+  - [Information Theory](https://www.coursera.org/learn/information-theory)
   
 # Anything else
   - [Screen to gif](https://www.screentogif.com/)
