@@ -45,6 +45,7 @@ found in any way useful for my current studies.
   - [MLSS 2019 London - Full Videos](https://search.videoken.com/?orgId=198#)
   - [Isak's summary - MLSS 2019](https://isakfalk.com/posts/mlss-2019/) 
   - [Variational Inference](https://arxiv.org/pdf/1601.00670.pdf)
+  - [Mathematical Tours](https://mathematical-tours.github.io/)
   
  
  # Probability and Statistics
