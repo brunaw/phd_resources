@@ -27,6 +27,7 @@ found in any way useful for my current studies.
   - [PGMs 2](http://www.bnlearn.com/about/teaching/slides-bnshort.pdf)
   - [PGMs 3](https://arxiv.org/pdf/1409.4928.pdf)
   - [David Blei's page](http://www.cs.columbia.edu/~blei/courses.html)
+  - [Intro to Bayesian Stats, by Michael DeCrescenzo](https://mikedecr.github.io/teaching/bayes/miller_2020/lecture_bayes-intro.html)
 
 
 # Miscellaneous Machine Learning
