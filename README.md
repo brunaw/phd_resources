@@ -47,6 +47,7 @@ found in any way useful for my current studies.
   - [Isak's summary - MLSS 2019](https://isakfalk.com/posts/mlss-2019/) 
   - [Variational Inference](https://arxiv.org/pdf/1601.00670.pdf)
   - [Mathematical Tours](https://mathematical-tours.github.io/)
+  - [CS229 Stanford](http://cs229.stanford.edu/syllabus.html)
   
  
  # Probability and Statistics
