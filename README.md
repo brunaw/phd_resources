@@ -93,6 +93,9 @@ found in any way useful for my current studies.
   - [Probabilistic Graphical Models](https://www.coursera.org/learn/probabilistic-graphical-models)
   - [Information Theory](https://www.coursera.org/learn/information-theory)
   
+# Interesting stats stuff
+  - [Interpreting Cohen's d Effect Size](https://rpsychologist.com/cohend/) 
+  
 # Anything else
   - [Screen to gif](https://www.screentogif.com/)
   - [Paper writing](https://academic.oup.com/intqhc/article/16/3/191/1814554)
