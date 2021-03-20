@@ -48,6 +48,8 @@ found in any way useful for my current studies.
   - [Variational Inference](https://arxiv.org/pdf/1601.00670.pdf)
   - [Mathematical Tours](https://mathematical-tours.github.io/)
   - [CS229 Stanford](http://cs229.stanford.edu/syllabus.html)
+  - [CS 294: Fairness in Machine Learning](https://fairmlclass.github.io/)
+  - [FMP Notebooks](https://www.audiolabs-erlangen.de/resources/MIR/FMP/C0/C0.html)
   
  
  # Probability and Statistics
